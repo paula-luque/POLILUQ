@@ -1,0 +1,33 @@
+#primero{
+    background-color:violet;
+    text-align: center;  
+    font-family: cursive;  
+}
+#segundo{
+    color: indigo;
+    font-weight:bolder;
+    font-family: cursive;
+}
+#tercero{
+    background-size:contain;
+    font-family: cursive;
+    text-align: right;
+}
+.blanco{
+    color:aliceblue;
+}
+.azul{
+    color: dodgerblue;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-color: none;
+    background-image: url("https://tonyfary.files.wordpress.com/2014/07/novo-background-amor-em-bytes-3.jpg");
+}
+img{
+    float:right;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
